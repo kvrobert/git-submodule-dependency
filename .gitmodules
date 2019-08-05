@@ -1,0 +1,4 @@
+[submodule "tas-hun-ner"]
+	path = tas-hun-ner
+	url = ssh://git@gitlab.precognox.com:10324/tas-tagging/tas-hun-ner.git
+	branch = development
